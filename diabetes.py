@@ -97,7 +97,7 @@ smoking_history_map = {
 
 
 # ---------------- APPLICATION UI ----------------
-st.title("🩺 Diabetes Prediction Ap for public")
+st.title("🩺 Diabetes Prediction Ap for Harish")
 st.write("Enter the patient details below to predict diabetes risk.")
 
 with st.form("prediction_form"):
